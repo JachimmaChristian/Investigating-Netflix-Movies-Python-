@@ -28,4 +28,4 @@ The relationship between movie length and audience engagement in the streaming e
 Conduct statistical tests to solidify the significance of genre-specific findings.
 Analyze factors beyond runtime, such as storytelling techniques and audience demographics, to understand drivers of movie length variations.
 
-Check the out the full project [Here](https://github.com/JachimmaChristian/Investigating-Netflix-Movies-Python-/blob/main/Investigating%20Netflix%20Movies/workspace/notebook.ipynb)
+Check the out the full project [Here]([https://github.com/JachimmaChristian/Investigating-Netflix-Movies-Python-/blob/main/Investigating%20Netflix%20Movies/workspace/notebook.ipynb](https://github.com/JachimmaChristian/Investigating-Netflix-Movies-Python-/blob/main/notebook%20(1).ipynb)https://github.com/JachimmaChristian/Investigating-Netflix-Movies-Python-/blob/main/notebook%20(1).ipynb)
